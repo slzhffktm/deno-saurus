@@ -12,6 +12,11 @@ allow_math: true
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
+## An Exploding Coffee 
+![image one](photo1.JPG)
+
+This is something that we thought somewhat resemble an exploding coffee. Although we didn't quite get the right object, we still had a good laugh about the coffee machine that we took a picture with.
+
 ## This is h2
 
 *This is italic.*[^1]
